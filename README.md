@@ -18,4 +18,6 @@
 }
 
 ```
+
 - once you're finished with the db config open src foolder in terminal and execute `npx sequelize db:create`
+
